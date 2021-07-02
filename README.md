@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @loloProcessor
+- 👀 I’m interested in forex trading
+- 🌱 I’m currently learning how to backtest my strategy
+- 💞️ I’m looking to collaborate on a trading bot
+- 📫 How to reach me laurent.dupulthys@gmail.com
